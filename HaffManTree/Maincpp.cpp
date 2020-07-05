@@ -79,12 +79,7 @@ void showMenu() {
 }
 int main()
 {
-//	zip();
-	//unZip();
-	
 	showMenu();
-
-	
 	system("pause");
 	return 0;
 }
